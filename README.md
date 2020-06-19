@@ -6,7 +6,7 @@ The dataset contains 9358 instances of hourly averaged responses from an array o
 Missing values are tagged with -200 value. 
 
 # Attribute Information:
-
+link to the project - https://nbviewer.jupyter.org/github/PranavSureshBabu/prediction-of-absolute-humidity/blob/master/Prediction%20of%20absolute%20humidity-checkpoint.ipynb
 0. Date	(DD/MM/YYYY) 
 1. Time	(HH.MM.SS) 
 2. True hourly averaged concentration CO in mg/m^3 (reference analyzer) 
