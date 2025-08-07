@@ -1,5 +1,8 @@
 # Predicting-Absolute-Humidity
 
+<img width="860" height="480" alt="image" src="https://github.com/user-attachments/assets/10936dc7-75a6-4636-88ba-8bcd564a3bc9" />
+
+
 # INTRODUCTION
 
 This project focuses on predicting absolute humidity using air quality sensor data. By applying regression models like Linear Regression, Random Forest, and SVR, the aim was to identify key environmental features and build an accurate predictive model. The data comes from the UCI Air Quality dataset.
